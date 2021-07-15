@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cli SYSTEM "cli.dtd">
+
+<cli>
+    <argument acces="A" nb="1">Value of Alpha</argument>
+    <argument acces="I" nb="1">Value of index</argument>
+    <argument acces="P">Full Matrix Mode</argument>
+    <argument acces="C">Empty Matrix Mode</argument>
+</cli>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+        <!ELEMENT cli (argument+)>
+        <!ELEMENT argument (#PCDATA)>
+
+        <!ATTLIST argument
+                acces ID #REQUIRED
+                nb CDATA #IMPLIED>
